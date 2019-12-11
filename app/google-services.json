@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557576963411",
+    "firebase_url": "https://employeeku.firebaseio.com",
+    "project_id": "employeeku",
+    "storage_bucket": "employeeku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557576963411:android:f26000bf8491421576cda6",
+        "android_client_info": {
+          "package_name": "dioobanu.yahoo.employeeku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557576963411-i3jsoldnc228mvlr5l2hhdr0rvijhiti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dioobanu.yahoo.employeeku",
+            "certificate_hash": "93cf5eeb7693d88fb6dedb515d2a3becacbad7ed"
+          }
+        },
+        {
+          "client_id": "557576963411-g09s5phh7smf7kfjsuasp4h3bfrftnf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjX8YOHxnWkCjV24lRHAgw5foNNRf7Jgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557576963411-g09s5phh7smf7kfjsuasp4h3bfrftnf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
